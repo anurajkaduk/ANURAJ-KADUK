@@ -1,0 +1,7 @@
+.title{
+    display: grid;
+    grid-template-rows: 1fr;
+   /*background-color: #415f05ad;*/
+    text-align: center;
+    padding: 1rem;
+}

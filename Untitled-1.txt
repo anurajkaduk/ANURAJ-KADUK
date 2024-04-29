@@ -1,0 +1,62 @@
+<!doctype html>
+<title>anuraj</title>
+  <head>
+    
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+   
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+     <!-- link CSS file-this.css -->
+    <link rel="stylesheet" type="text/css" href="index_templete.css" />
+
+
+    <audio autoplay="on" loop="on">
+      <source src="return.mp3">
+	</audio>
+    
+    
+</head>
+
+
+<body style=";    background-repeat: repeat-y; background-size:cover; ">
+  background-image: url(anu.JPG.jpg)
+    
+ <body>
+<!--
+    <div class="layout">
+        <div class="item"> 0 </div>
+        <div class="item2"> 0 </div>
+        <div> 0 </div>  
+    </div>
+<h1>Moss homepage</h1>
+<hr style="background-color: blue; min-height: 20%;">
+-->
+
+<div class="outer">
+    
+    <div class=img-fluid src>
+        <h1>klhihuj</h1>
+        <!-- <hr style="color: darkolivegreen; height: 13px;;"> -->
+    </div>
+   
+    <div class="content">
+        <div>
+           
+        </div>
+    </div>
+
+    
+
+    
+
+    
+    
+   
+    
+
+</div>
+</body>
+</html>
